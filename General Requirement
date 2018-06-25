@@ -1,0 +1,13 @@
+The entire program was initialized on Kali Linux
+ Requirements:
+
+
+Python 3.x
+
+scapy 2.3.3
+
+pip3 install scapy-python3
+
+pip3 install sh
+
+pip3 install netifaces
